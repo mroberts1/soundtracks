@@ -1,0 +1,32 @@
+---
+title: "    "
+page-layout: full
+listing:
+  id: sample-listings
+  contents: posts
+  sort: "date desc"
+  date-format: short
+  type: grid
+  grid-columns: 3
+  field-links: [image, title, author, custom-field]
+  fields: [image, title, author, custom-field, date]
+  field-display-names:
+    author: "film"
+    title: "title"
+    custom-field: "music"
+    date: "posted"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+image-lazy-loading: false
+title-block-banner: false
+---
+
+<h6>dorian ♭2</h6>
+
+### alternate soundtracks
+
+<br>
+
+::: {#sample-listings}
+:::

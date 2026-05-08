@@ -1,0 +1,15 @@
+---
+title: "Under the Skin"
+author: "Jonathan Glazer (2013)"
+custom-field: "Radiohead"
+date: "2022-03-01"
+categories: [alternate soundtrack]
+image: "thumbnail.jpg"
+---
+
+{{< video https://vimeo.com/700577451 >}}
+
+Mica Levi's [score](https://www.theguardian.com/music/2014/mar/15/mica-levi-under-the-skin-soundtrack) for Jonathan Glazer's eerie sci-fi film *Under The Skin* (2013) is atonal and appropriately alien. I was fascinated by the sequences of the film in which the alien played by Scarlett Johansson lures unsuspecting Scotsmen to their doom in some kind of amber-like underworld, which was visually remarkably similar to the "Dark Place" sequence in Jordan Peele's *Get Out* (2017). My original idea was to juxtapose the two films, but the Radiohead track fitted the *Under The Skin* sequence so perfectly that it seemed like overkill to include anything else.
+
+**Film:** *Under the Skin* (Jonathan Glazer, 2013)
+**Music:** Radiohead, "Everything In Its Right Place" (*Kid A*, Capitol Records, 2000)

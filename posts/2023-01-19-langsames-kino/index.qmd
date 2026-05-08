@@ -1,0 +1,19 @@
+---
+title: "Langsames Kino"
+author: "protest footage (2023)"
+custom-field: "Mahler, Symphony No. 3, IV"
+date: "2023-01-19"
+categories: [alternate soundtrack, installation]
+image: "thumbnail.jpg"
+---
+
+{{< video https://vimeo.com/808559077 >}}
+
+In mid-January 2023, I came across a brilliant photoessay titled "[The Defence of Lützerath](https://crimethinc.com/2023/01/19/the-defense-of-lutzerath-a-photoessay-and-poster-documenting-ecological-destruction-and-resistance)," about an ongoing standoff in Germany between riot police and environmental activists peacefully trying to prevent the destruction of the village of Lützerath to create an open-pit coal mine. The photoessay led me to a [recently-posted video](https://youtu.be/oEAD402r8Rs) documenting the conflict on YouTube. The video depicted surreal scenes of riot police struggling to control the large crowd of protesters under difficult conditions, getting bogged down, ridiculed, and pelted with mud. The scene seemed like some kind of sublime metaphor for the futility of human existence and I found myself remembering Werner Herzog's similar fascination with sublime horror in his documentary about the aftermath of the Kuwait war, [*Lessons of Darkness*](https://youtu.be/xDfo71gRb8A) (1992), and other documentaries.
+
+I wanted to use some kind of choral soundtrack to emphasize the scene's almost mythic grandeur, and eventually settled on the fourth movement of Mahler's Symphony No. 3, used in [a very different sequence](https://youtu.be/6-42QSSYrGE) of one of my favorite films, Luchino Visconti's *Death in Venice* (1971). The movement includes a magnificent song whose lyrics are the poem [*Zarathustra's Rundgesang*](https://en.wikipedia.org/wiki/Zarathustra%27s_roundelay) [Zarathustra's Roundelay], from Nietzsche's *Also Sprach Zarathustra* (1883-85)—a text that also inspired a better-known cinematic encounter, Richard Strauss's tone poem used in Stanley Kubrick's [*2001: A Space Odyssey*](https://youtu.be/WufKsOhkTL8) (1968). The song's lyrics—the poem from Nietzsche's text—are included on the [Vimeo page](https://vimeo.com/808559077) for the video above.
+
+The resulting video is thus a four-part homage to Nietzsche, Mahler, Visconti, and Herzog (or maybe five, if you include Kubrick). Watching it again with Mahler's soundtrack, it occurs to me that it could be seen as a kind of slow cinema (or *langsames Kino* in German) and it's appropriate that the movement's tempo instruction is *Sehr langsam—misterioso* [very slow—mysterious]. It might be interesting to slow down the video to emphasize this quality, but thanks to the mud the events already seem to be unfolding in slow motion.
+
+**Film:** protest footage, 2023
+**Music:** Gustav Mahler, Symphony No. 3 in D minor, IV. "Sehr langsam—misterioso" (*Zarathustra's Rundgesang*)

@@ -1,0 +1,19 @@
+---
+title: "Fata Morgana"
+author: "Werner Herzog (1971)"
+custom-field: "Pink Floyd"
+date: "2022-03-01"
+categories: [alternate soundtrack, imagined collaboration]
+image: "thumbnail.jpg"
+---
+
+{{< video https://vimeo.com/700581439 >}}
+
+From 1969-72, the UK psychedelic group Pink Floyd composed soundtracks for a number of films, including Barbet Schroeder's *More* (1969), Michelangelo Antonioni's *Zabriskie Point* (1970), and Barbet Schroeder's *La Vallée* (1972) (the latter subsequently released as the album *Obscured by Clouds* (Harvest, 1972).
+
+Around the same time, the German filmmaker Werner Herzog was collaborating with the [krautrock band Popol Vuh](https://thequietus.com/articles/16110-herzog-popol-vuh-overview) on the scores of *Aguirre, the Wrath of God* (1972), *Heart of Glass* (1976), *Nosferatu* (1979), *Fitzcarraldo* (1982) and *Cobra Verde* (1987).
+
+Since Herzog's film about [superior mirages](https://www.theguardian.com/science/2021/mar/05/ship-hovering-above-sea-cornwall-optical-illusion), *Fata Morgana* (1971), shot in the desolate Sahel region of Central Africa, pre-dates his collaboration with Popol Vuh, and Pink Floyd never collaborated with Herzog, I decided to imagine such a collaboration on *Fata Morgana*.
+
+**Film:** *Fata Morgana* (Werner Herzog, 1971)
+**Music:** Pink Floyd, "Shine On You Crazy Diamond (Part 8)" (*Wish You Were Here*, Columbia, 1975)

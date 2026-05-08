@@ -1,0 +1,4 @@
+date-format: short
+execute:
+  freeze: auto
+title-block-banner: false

@@ -1,0 +1,13 @@
+---
+title: "Guinnevere"
+author: "Alex Garland, DEVS (2020)"
+custom-field: "Crosby, Stills & Nash"
+date: "2022-03-21"
+categories: [alternate soundtrack]
+image: "thumbnail.jpg"
+---
+
+{{< video https://vimeo.com/709942445 >}}
+
+**Video:** *DEVS* (Alex Garland, 2020), Episode 6 opening credits
+**Music:** Crosby, Stills, & Nash, "Guinnevere" (*Crosby, Stills, & Nash*, Atlantic, 1969)

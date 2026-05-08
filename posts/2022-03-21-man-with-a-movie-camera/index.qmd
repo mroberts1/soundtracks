@@ -1,0 +1,15 @@
+---
+title: "Man With A Movie Camera"
+author: "Dziga Vertov (1929)"
+custom-field: "The Cinematic Orchestra"
+date: "2022-03-21"
+categories: [alternate soundtrack, professional]
+image: "thumbnail.jpg"
+---
+
+{{< video https://vimeo.com/708401254 >}}
+
+I didn't make this one - it's one of a number of alternate soundtracks composed for Dziga Vertov's classic of Soviet montage, this one by the U.K. band The Cinematic Orchestra. The soundtrack brilliantly complements the rhythmic montage of Vertov's portrait of everyday life in post-revolutionary Russia. I used it as one of the clips in the final exam of my course *COMM 232 Understanding Film* at Franklin Pierce University, taught in Spring 2022.
+
+**Film:** *Man With A Movie Camera* (Dziga Vertov, 1929)
+**Music:** The Cinematic Orchestra, *Man With A Movie Camera* (Ninja Tune, 2003)

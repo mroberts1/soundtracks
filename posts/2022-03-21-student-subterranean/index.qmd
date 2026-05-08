@@ -1,0 +1,13 @@
+---
+title: "Subterranean Homesick Alien"
+author: "uncredited student project"
+custom-field: "Radiohead"
+date: "2022-03-21"
+categories: [alternate soundtrack, student project]
+image: "thumbnail.jpg"
+---
+
+{{< video https://www.youtube.com/embed/2Y6Obk_WeC0 >}}
+
+**Music video:** uncredited student project
+**Music:** Radiohead, "Subterranean Homesick Alien" (*OK Computer*, XL Recordings, 1997)
