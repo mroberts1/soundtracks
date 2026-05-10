@@ -1,0 +1,19 @@
+---
+title: "Don't Look Now"
+author: "Nicolas Roeg (1973)"
+date: "2025-05-09"
+image: "dln.png"
+---
+
+{{< video https://vimeo.com/891052187   >}}
+
+Funeral sequence from *Don't Look Now* (Nicholas Roeg, 1973)\
+Alternate soundtrack: Fauré, "Pavane," Op. 50 (solo piano version)\
+Piano: Jorge Federico Osorio\
+Recording: The French Album (Cedille, 2020)\
+
+Glenn Kenny, "Two Intertwined Semi-Venetian Masterpieces" (*Criterion*, 7 June 2015)
+
+“My job was just to log all the film as it came in . . . so any shot needed could be given to Graeme [Clifford], the editor, as he needed it. It was just creating some order and keeping order. Graeme would be on the editing machine. Tony Lawson was the first assistant. Nic would come in to check how it was going. They’d often watch sequences to existing music that was later replaced by Pino Donaggio’s score. I have a strong memory of the funeral scene with Fauré’s Pavane, which worked beautifully.”
+
+---Alfreda (Alfie) Benge, assistant editor, *Don't Look Now*

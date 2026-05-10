@@ -1,0 +1,13 @@
+---
+title: "Gravity"
+author: "Alfonso Cuarón (2013)"
+#custom-field: "Sigur Rós, 'Ágaetis Byrjun'"
+date: "2026-05-09"
+image: "gravity.png"
+---
+
+{{< video https://vimeo.com/1190824915 >}}
+
+**Film:** *Gravity* (Alfonso Cuarón, 2013)\
+**Actress**: Sandra Bullock\
+**Music:** Sigur Rós, "Ágaetis Byrjun". *Ágaetis Byrjun*. 1999. Smekkleysa SM 79 CD, Iceland.
