@@ -2,9 +2,22 @@ project:
   type: website
 
 website:
-  title: "dorian ♭2"
+  title: "    "
   site-url: "https://mroberts1.github.io/soundtracks"
   back-to-top-navigation: false
+  search: false
+  navbar:
+    background: transparent
+    foreground: "#1a1a1a"
+    right:
+      - text: home
+        href: index.qmd
+      - text: about
+        href: about.qmd
+      - icon: github
+        href: https://github.com/mroberts1
+      - icon: twitter
+        href: https://twitter.com/mroberts_vma  
 
 format:
   html:
@@ -13,10 +26,10 @@ format:
       light: [litera, ember.scss]
       dark: [quartz, ember.scss]
     css: [custom.scss, custom-styles.css]
-    linestretch: 1.2
-    fontsize: 0.9em
+    linestretch: 1.8
+    fontsize: 0.8em
     smooth-scroll: true
-    linkcolor: "#235440"
+    linkcolor: "#1a1a1a"
     link-external-newwindow: true
 
 execute:
