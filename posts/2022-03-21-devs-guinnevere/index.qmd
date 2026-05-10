@@ -3,7 +3,7 @@ title: "Guinnevere"
 author: "Alex Garland, DEVS (2020)"
 custom-field: "Crosby, Stills & Nash"
 date: "2022-03-21"
-categories: [alternate soundtrack]
+#categories: [alternate soundtrack]
 image: "thumbnail.jpg"
 ---
 

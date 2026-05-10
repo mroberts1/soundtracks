@@ -3,7 +3,7 @@ title: "Man With A Movie Camera"
 author: "Dziga Vertov (1929)"
 custom-field: "The Cinematic Orchestra"
 date: "2022-03-21"
-categories: [alternate soundtrack, professional]
+#categories: [alternate soundtrack, professional]
 image: "thumbnail.jpg"
 ---
 

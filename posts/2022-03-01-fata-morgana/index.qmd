@@ -3,7 +3,7 @@ title: "Fata Morgana"
 author: "Werner Herzog (1971)"
 custom-field: "Pink Floyd"
 date: "2022-03-01"
-categories: [alternate soundtrack, imagined collaboration]
+#categories: [alternate soundtrack, imagined collaboration]
 image: "thumbnail.jpg"
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "    "
+title: "dorian ♭2"
+subtitle: "alternate soundtracks"
 page-layout: full
 listing:
   id: sample-listings
@@ -7,26 +8,20 @@ listing:
   sort: "date desc"
   date-format: short
   type: grid
-  grid-columns: 3
+  grid-columns: 2
   field-links: [image, title, author, custom-field]
-  fields: [image, title, author, custom-field, date]
+  fields: [image, title]
   field-display-names:
     author: "film"
     title: "title"
     custom-field: "music"
     date: "posted"
-  categories: true
-  sort-ui: true
-  filter-ui: true
+  categories: false
+  sort-ui: false
+  filter-ui: false
 image-lazy-loading: false
 title-block-banner: false
 ---
-
-<h6>dorian ♭2</h6>
-
-### alternate soundtracks
-
-<br>
 
 ::: {#sample-listings}
 :::
