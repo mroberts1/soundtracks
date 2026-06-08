@@ -7,4 +7,8 @@ image: "thumb.jpg"
 ---
 
 {{< video https://vimeo.com/1097285493?fl=pl&fe=sh >}}
+<p>
+Terry Riley (later with Linda Lewis) performs "Dean", from Nicolas Roeg and Peter Neal's 1972 documentary *Glastonbury Fayre* about the second Glastonbury Festival in 1971.
+
+***
 
