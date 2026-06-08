@@ -1,6 +1,6 @@
 ---
 title: "dorian ♭2"
-subtitle: "alternate soundtracks"
+subtitle: "music | cinema | soundtracks"
 page-layout: full
 listing:
   id: sample-listings
@@ -8,7 +8,7 @@ listing:
   sort: "date desc"
   date-format: short
   type: grid
-  grid-columns: 2
+  grid-columns: 3
   field-links: [image, title, author, custom-field]
   fields: [image, title]
   field-display-names:

@@ -1,0 +1,10 @@
+---
+title: "Glastonbury Fayre"
+author: "Nicolas Roeg & Peter Neal"
+custom-field: "Terry Riley"
+date: "2026-06-08"
+image: "thumb.jpg"
+---
+
+{{< video https://vimeo.com/1097285493?fl=pl&fe=sh >}}
+
